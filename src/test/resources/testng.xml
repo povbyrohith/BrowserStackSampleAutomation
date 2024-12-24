@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="BrowserStack Assignment Suite">
+    <test name="BrowserStack Assignment Test">
+        <!-- Defining the classes that TestNG should run -->
+        <classes>
+            <class name="TestOpinionTabForElpais"/>
+        </classes>
+    </test>
+</suite>
